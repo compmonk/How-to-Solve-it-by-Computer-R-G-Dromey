@@ -6,7 +6,7 @@ a third temporary variable.
 """
 
 
-# Python special
+# Pythonic way
 def exchange1(a, b):
     a, b = b, a
     return a, b
